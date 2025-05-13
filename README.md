@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Sameta-cani&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
 
-## 👋 About Me
+## 👋 About Me (준비 중..)
 <div style="text-align: left; margin: 2rem 0;">
     <p>AI와 데이터 사이언스에 관심이 있는 개발자입니다.</p>
     <p>머신러닝과 딥러닝을 활용한 문제 해결에 도전하고 있습니다.</p>
@@ -43,13 +43,13 @@
 <div style="margin: 2rem 0;">
     <h3>📚 Learning</h3>
     <ul style="margin: 1rem 0;">
-        <li>LLM과 LangChain을 활용한 AI 애플리케이션 개발</li>
-        <li>딥러닝 모델 최적화 및 경량화 연구</li>
+        <li>Docker</li>
+        <li>LangGraph</li>
+        <li>Mobile LLM을 활용한 온디바이스 LLM 모델 구축</li>
     </ul>
     <h3>🚧 In Progress</h3>
     <ul style="margin: 1rem 0;">
-        <li>AI 기반 데이터 분석 파이프라인 구축</li>
-        <li>머신러닝 모델 성능 개선 프로젝트</li>
+        <li>육아휴직 정보 탐색 및 상담 지원을 위한 에이전트 개발 (<a href="https://github.com/eunnnholee/rag-chatbot/tree/cani/main">GitHub 링크</a>)</li>
     </ul>
 </div>
 
