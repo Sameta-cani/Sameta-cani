@@ -50,8 +50,7 @@
     <h3>🚧 In Progress</h3>
     <ul style="margin: 1rem 0;">
         <li>(hold) 육아휴직 정보 탐색 및 상담 지원을 위한 에이전트 개발 (<a href="https://github.com/eunnnholee/rag-chatbot/tree/cani/main">GitHub 링크</a>)</li>
-        <li>AgentForce Hackaton: 정기 요금 자동 관리 에이전트 개발</li>
-        <li>Pikmin Bloom 데코 지도</li>
+        <li>SalesForce Hackaton: 정기 요금 자동 관리 에이전트 개발</li>
         <li>HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회</li>
     </ul>
 </div>
